@@ -23,7 +23,7 @@ int main(int argc, char const *argv[]) {
     scanf("%d", &userAge);
 
     /* printing the result on the screen */
-    printf("Hello, %s! You are %d years old, and congratulations for the successful registration!\n", userName, userAge);
+    printf("Hello, %s! You are %d years old, and congratulations on the successful registration!\n", userName, userAge);
     
     return 0;
 }
